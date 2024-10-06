@@ -14,6 +14,7 @@ In this project my task was to update an existing application that lets you buil
 This project uses typescript and inquirer. To install this project open it inside the CLI and run npm i to install it's dependencies. This is crucial to the application running properly.
 ## Usage
 To initialize this applicatin use the command <npm run start>. After running the command you should be prompted with a series of questions.
+Here is the link to the video demo: https://app.screencastify.com/v3/watch/DT5FQHdxpw1IXHawyAvY
 ## Contribution
 To contribute to this project you can go to the Github repository and clone the repository. After making changes they can be reviewed and merged on Github
 ## License
