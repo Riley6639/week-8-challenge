@@ -21,6 +21,6 @@ To contribute to this project you can go to the Github repository and clone the 
 This project is licensed under the MIT license.
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## GitHub
-Riley6639
+[Riley6639](https://github.com/Riley6639)
 ## Email
 Mechamriley@gmail.com
